@@ -1,0 +1,8 @@
+{
+  "name": "react-native-upload-images",
+  "version": "0.1.0",
+  "description": "Provides React Native (Expo) functions to pick an image from the local photo library",
+  "main": "../App.tsx",
+  "author": "Luke Warner <lukeswarner@gmail.com>",
+  "license": "MIT"
+}
